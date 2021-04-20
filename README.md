@@ -16,7 +16,7 @@ All notes and DPP are updated on daily basis.
 
 # How to download?
 Simple to hai bro (or sis)
-Click on VIEW CODE [if n mobile] to see all content in well structured form.
+Click on VIEW CODE [if on mobile] to see all content in well structured form.
 Open the file to view or click download to download
 
 > Newton ka,
